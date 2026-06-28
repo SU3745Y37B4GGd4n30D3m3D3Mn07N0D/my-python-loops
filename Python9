@@ -1,0 +1,5 @@
+a = 'Leave me alone'
+b = "I'm coding"
+
+print(a)
+print(b)
