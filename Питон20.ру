@@ -1,0 +1,2 @@
+print('YES', sep='!', end='#')
+print('NO', sep='#', end='!')
