@@ -1,0 +1,2 @@
+delimiter = '+'
+print('a', 'b', sep=delimiter)
