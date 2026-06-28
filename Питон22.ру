@@ -1,0 +1,4 @@
+sep1 = '#'
+end2 = '?'
+print('YES', 'NO', sep=sep1, end='+')
+print('MAYBE', 'NEVER', sep='*', end=end2)
