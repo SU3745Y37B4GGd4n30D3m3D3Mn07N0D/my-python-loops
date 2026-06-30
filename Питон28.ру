@@ -1,0 +1,11 @@
+a = int(input())
+b = int(input())
+z = a + b
+print(a, "+", b, "=", z)
+c = a - b
+print(a, "-", b, "=", c)
+f = a * b
+print(a, "*", b, "=", f)
+
+
+
