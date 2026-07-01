@@ -1,0 +1,12 @@
+f = int(input())
+a = f // 100 # 1
+b = (f // 10) % 10 # Второе число
+c = f % 10 # 3
+print(a, b, c, sep="")
+print(a, c, b, sep="")
+print(b, a, c, sep="")
+print(b, c, a, sep="")
+print(c, a, b, sep="")
+print(c, b, a, sep="")
+
+
